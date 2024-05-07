@@ -1,0 +1,29 @@
+# Ignore virtual environment
+myenv/
+
+.env
+# Byte-compiled / optimized / DLL files
+usermanual/__pycache__/
+*.py[cod]
+
+api/__pycache__/
+# C extensions
+*.so
+
+.vscode
+
+manuals/
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Media files
+media/
+
+# Static files
+static/
+
+# PyCharm
+.idea/
